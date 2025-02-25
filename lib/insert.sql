@@ -1,0 +1,2 @@
+INSERT INTO bears (name,age,sex,color,temperament,alive) VALUES ('Mr.Chocolate', 5,'M', 'Brown','Sweet', True), ('Rowdy', 4,'M', 'Black','Agressive', True),('Tabitha', 7,'F', 'White','Calm', True), ('Sergeant Brown', 6,'M', 'Dark Brown','Stern', True), ('Melissa', 3,'F', 'Golden','Playful', True), ('Grinch', 8,'M', 'Green','Moody', False), ('Wendy', 2,'F', 'Pink','Cheerfull', True), (NULL,NULL,NULL,NULL,NULL, True) ;
+
